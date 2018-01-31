@@ -6,7 +6,7 @@ MultipleFontColorLabel
 ------------
  Added Some screens here.
  
-[![](https://github.com/pawankv89/DemoResizing/blob/master/Screens/1.png)]
+[![](https://github.com/pawankv89/MultipleFontColorLabel/blob/master/Screens/1.png)]
 
 ## Usage
 ------------
