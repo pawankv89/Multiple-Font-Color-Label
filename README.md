@@ -1,12 +1,12 @@
 
-MultipleFontColorLabel
+Multiple Font Color Label
 =========
 
-## MultipleFontColorLabel.
+## Multiple Font Color Label.
 ------------
  Added Some screens here.
  
-[![](https://github.com/pawankv89/MultipleFontColorLabel/blob/master/Screens/1.png)]
+![](https://github.com/pawankv89/MultipleFontColorLabel/blob/master/Screens/1.png)
 
 ## Usage
 ------------
